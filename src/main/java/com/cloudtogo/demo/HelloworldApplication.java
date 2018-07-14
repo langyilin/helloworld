@@ -14,7 +14,7 @@ public class HelloworldApplication {
 	@RequestMapping("")
 	@ResponseBody
 	public String helloWorld() {
-		return "Hello World1!";
+		return "Hello World!";
 	}
 
 
